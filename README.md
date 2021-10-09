@@ -5,3 +5,5 @@
 ## Move requirments.txt file to main folder or add in the PATH ##
 # In Command Promt run :-
 # $ pip install r-requirments.txt 
+
+# Go to Project1 and run SampleProject1.py
