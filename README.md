@@ -6,4 +6,6 @@
 # In Command Promt run :-
 # $ pip install r-requirments.txt 
 
+# Read documentation file now
+
 # Go to Project1 and run SampleProject1.py
