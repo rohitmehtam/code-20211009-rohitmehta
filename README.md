@@ -1,10 +1,10 @@
 # code-20211009-rohitmehta
 
-# Install the requirments.txt file before running the code
+# Install the requirements.txt file before running the code
 
-## Move requirments.txt file to main folder or add in the PATH ##
+## Move requirements.txt file to main folder or add in the PATH ##
 # In Command Promt run :-
-# $ pip install r-requirments.txt 
+# $ pip install r-requirements.txt 
 
 # Read documentation file now
 
